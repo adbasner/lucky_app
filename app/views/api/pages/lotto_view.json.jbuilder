@@ -1,0 +1,1 @@
+json.todays_lotto_numbers @lotto_numbers
